@@ -1,4 +1,4 @@
-### News topic classifier in PySpark
+### [News topic classifier in PySpark](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5765572329082963/819669162567595/1062157151406693/latest.html)
 
 This repo contains an NLP project with the primary goal of classifying the news based on its title, into 4 categories:
 1. Business
